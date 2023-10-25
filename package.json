@@ -1,0 +1,11 @@
+{
+  "name": "arcfox-core",
+  "version": "3.0.0",
+  "description": "Core of the ArcFox extension.",
+  "author": "BetterBrowser",
+  "license": "MIT",
+  "dependencies": {
+    "alpinejs": "^3.13.2",
+    "lighterhtml": "^4.2.0"
+  }
+}

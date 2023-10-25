@@ -9,9 +9,7 @@
     "96": "./src/assets/arcfox-default.svg"
   },
   "background": {
-    "scripts": [
-      "./src/background/keybinds.js"
-    ]
+    "scripts": ["./src/background/keybinds.js"]
   },
   "commands": {
     "toggleSidebar": {
@@ -22,6 +20,6 @@
     }
   },
   "sidebar_action": {
-    "default_panel": "src/sidebar/index.html"
+    "default_panel": "./src/sidebar/index.html"
   }
 }

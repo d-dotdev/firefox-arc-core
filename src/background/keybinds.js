@@ -4,9 +4,6 @@ const commands = {
   },
 };
 
-/**
- * @argument {string} command
- */
 function handleShortcut(command) {
   let commandFunction = commands[command];
   commandFunction();
