@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "ArcFox",
-  "version": "3.0.0",
+  "name": "Firefox-Arc",
+  "version": "1.0.0",
   "description": "Make your Firefox like the Arc Browser.",
   "icons": {
-    "16": "./src/assets/arcfox-default.svg",
-    "48": "./src/assets/arcfox-square-transparent.svg",
-    "96": "./src/assets/arcfox-default.svg"
+    "16": "./src/assets/firefox-arc-default.svg",
+    "48": "./src/assets/firefox-arc-square-transparent.svg",
+    "96": "./src/assets/firefox-arc-default.svg"
   },
   "background": {
     "scripts": ["./src/background/keybinds.js"]

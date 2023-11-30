@@ -1,8 +1,8 @@
 {
-  "name": "arcfox-core",
-  "version": "3.0.0",
-  "description": "Core of the ArcFox extension.",
-  "author": "BetterBrowser",
+  "name": "firefox-arc-core",
+  "version": "1.0.0",
+  "description": "Core of the Firefox Arc extension.",
+  "author": "d.dev <dresss.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "alpinejs": "^3.13.2",
